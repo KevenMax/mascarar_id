@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  slug: MyString
+  idade: 1
+  data_nascimento: 2017-03-17
+
+two:
+  nome: MyString
+  slug: MyString
+  idade: 1
+  data_nascimento: 2017-03-17
